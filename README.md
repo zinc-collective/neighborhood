@@ -75,8 +75,8 @@ Modern expectations are:
 
 ### Relevance for Zinc Coop
 As a Californian LLC, Zinc is bound ultimately to follow California Consumer Privacy Act ([CCPA](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)) which mirrors EU's General Data Protection Regulation ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)) with opt-out. The basic thrust is to give web users the ability to see what information is collected about them and stop that data from being sold. In addition there is a [privacy tort](https://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States) which affirms the right of seclusion. For a warm community to develop trust and sharing without shame, the design must/should from the start support:
-* Rebuttal priviledges - if someone talks about you, should be able to respond in a civil manner;
-* Celebrity Priviledges	- if reputational has a certain social credit (eg for being civic) then more powers could be granted;
+* Right to rebuttal - if someone talks about you, should be able to respond in a civil manner;
+* Social Capital	- if reputational has a certain social credit (eg for being civic) then more powers could be granted;
 * Right to be Forgotten - what you say, do or act can be eraseable (eg blank slate for old misdemenors);
 * Moral Right to be Forgiven - sometimes even if a deed is immemorial, forgiveness shoud always be an option as part of restorative justice.
 
