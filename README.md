@@ -54,6 +54,34 @@ Our architectural priorities are:
 2. Stable, reliable release cadence.
 3. By and for small, cohesive groups.
 
+## Privacy- hard rules not soft talk
+
+### Legal realities vs User expections
+Currently you leave a trail of digital breadcrumbs wherever you go:
+* server logs and URLs accessed (permanent history in some cases);
+* browser tracking via web-bugs and double-dereferencing;
+* cross-site cookies allows correlation of user profiles;
+* and we haven't even started on geotagging, AI user correction, or [ghostjacks](https://www.zdnet.com/article/tech-giants-and-civil-liberty-groups-call-out-ghost-cops-and-source-code-demands-under-australian-encryption-laws/).
+
+Some famous US caselaw (incomplete):
+1. Roe v. Wade (1973) 
+2. Lawrence v. Texas (2003)
+
+Modern expectations are:
+* limit physical or electronic intrusion into one's private quarters;
+* forbid the dissemination of truthful private information which a reasonable person would find objectionable
+* the publication of facts which place a person in a false light, even though the facts themselves may not be defamatory
+* the unauthorized use of a person's name/likeness/identity to obtain some benefits
+
+### Relevance for Zinc Coop
+As a Californian LLC, Zinc is bound ultimately to follow California Consumer Privacy Act ([CCPA](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)) which mirrors EU's General Data Protection Regulation ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)) with opt-out. The basic thrust is to give web users the ability to see what information is collected about them and stop that data from being sold. In addition there is a [privacy tort](https://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States) which affirms the right of seclusion. For a warm community to develop trust and sharing without shame, the design must/should from the start support:
+* Rebuttal priviledges - if someone talks about you, should be able to respond in a civil manner;
+* Celebrity Priviledges	- if reputational has a certain social credit (eg for being civic) then more powers could be granted;
+* Right to be Forgotten - what you say, do or act can be eraseable (eg blank slate for old misdemenors);
+* Moral Right to be Forgiven - sometimes even if a deed is immemorial, forgiveness shoud always be an option as part of restorative justice.
+
+# Implementation
+
 For the frontend, we rely on [Tailwind UI][tailwind-ui].
 
 For the backend, we rely on [Ruby on Rails][rails].
